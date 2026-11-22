@@ -1,0 +1,17 @@
+
+{
+  "expo": {
+    "name": "Rüzgar Atlası",
+    "slug": "ruzgar-atlasi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.bsm447.ruzgaratlasi"
+    }
+  }
+}
